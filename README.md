@@ -10,4 +10,4 @@ Just a random game i coded in less than an hour, has one bug
  - Card Counting (This will be 1-2 functions inside of Deck.py)
 
 ## Running the Game
- - <python variable> main.py
+ - python main.py
